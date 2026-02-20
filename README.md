@@ -3,8 +3,15 @@
 
 # What is this mod?
 
-More Ore XP lets you configure how much experience is dropped when you mine a any ore block. <br>
+More Ore XP lets you configure how much experience is dropped when you mine a any ore block.
 
+By default, the only new changes are made to:
+- Copper Ore
+- Deepslate Copper Ore
+- Iron Ore
+- Deepslate Iron Ore
+- Gold Ore
+- Deepslate Gold Ore
 
 ![](https://cdn.modrinth.com/data/BjtheZTY/images/2889e7daf0ada6f50c908a7588a74cd456d069cf.png)
 
@@ -21,10 +28,10 @@ More Ore XP lets you configure how much experience is dropped when you mine a an
 | Deepslate Diamond | 3 | 7 | 3 | 7 |
 | Emerald | 3 | 7 | 3 | 7 |
 | Deepslate Emerald | 3 | 7 | 3 | 7 |
-| Gold | 3 | 7 | 3 | 7 |
-| Deepslate Gold | 3 | 7 | 3 | 7 |
-| Iron | 3 | 7 | 3 | 7 |
-| Deepslate Iron | 3 | 7 | 3 | 7 |
+| Gold | 3 | 7 | 0 | 0 |
+| Deepslate Gold | 3 | 7 | 0 | 0 |
+| Iron | 3 | 7 | 0 | 0 |
+| Deepslate Iron | 3 | 7 | 0 | 0 |
 | Lapis | 2 | 5 | 2 | 5 |
 | Deepslate Lapis | 2 | 5 | 2 | 5 |
 | Nether Gold | 0 | 1 | 0 | 1 |
