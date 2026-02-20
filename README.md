@@ -6,12 +6,12 @@
 More Ore XP lets you configure how much experience is dropped when you mine a any ore block.
 
 By default, the only new changes are made to:
-- Copper Ore
-- Deepslate Copper Ore
-- Iron Ore
-- Deepslate Iron Ore
-- Gold Ore
-- Deepslate Gold Ore
+- Copper Ore -> min: 3 max: 7
+- Deepslate Copper Ore -> min: 3 max: 7
+- Iron Ore -> min: 3 max: 7
+- Deepslate Iron Ore -> min: 3 max: 7
+- Gold Ore -> min: 3 max: 7
+- Deepslate Gold Ore -> min: 3 max: 7
 
 ![](https://cdn.modrinth.com/data/BjtheZTY/images/2889e7daf0ada6f50c908a7588a74cd456d069cf.png)
 
