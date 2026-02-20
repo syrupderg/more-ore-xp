@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "more-ore-xp",
+	"version": "${version}",
+	"name": "More Ore Xp",
+	"description": "Configure how much ores drop experience!",
+	"authors": [
+		"syrupderg"
+	],
+	"contact": {
+		"homepage": "https://syrupderg.dev",
+		"sources": "https://github.com/syrupderg/more-ore-xp",
+		"issues": "https://github.com/syrupderg/more-ore-xp/issues"
+	},
+	"license": "LGPLv3",
+	"icon": "assets/more-ore-xp/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.syrup.moreorexp.MoreOreXp"
+		],
+		"modmenu": [
+			"dev.syrup.moreorexp.compat.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"more-ore-xp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*",
+		"cloth-config": "*"
+	}
+}
