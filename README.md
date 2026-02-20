@@ -8,7 +8,7 @@ More Ore XP lets you configure how much experience is dropped when you mine a an
 
 ![](https://cdn.modrinth.com/data/BjtheZTY/images/2889e7daf0ada6f50c908a7588a74cd456d069cf.png)
 
-# Ore hardness values:
+# Ore experience values:
 
 | Minecraft Ore | Changed Min | Changed Max | Vanilla Min | Vanilla Max |
 | --- | :---: | :---: | :---: | :---: |
